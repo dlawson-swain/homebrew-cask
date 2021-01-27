@@ -1,5 +1,5 @@
 cask "osxfuse" do
-  version "3.11.2"
+  version "4.0.5"
   sha256 "0f9fd021810063ded2f9a40347e11961369238af27615842063831568a0860ce"
 
   url "https://github.com/osxfuse/osxfuse/releases/download/osxfuse-#{version}/osxfuse-#{version}.dmg",
